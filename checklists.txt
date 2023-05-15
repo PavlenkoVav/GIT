@@ -1,6 +1,6 @@
 ID 
-Title
+Title / Description
 Steps
 Status
 Attachment
-Buglink
+Buglink 
